@@ -188,7 +188,7 @@ header h3 {
 }
 .grid-line {
   height: 100vh;
-  border-left: 1px solid #ccc;
+  border-left: 1px dotted #90c2da;
 }
 
 
@@ -569,4 +569,3 @@ span.white {
             .next svg, .prev svg {
                 width: 25px;
             }
-            
